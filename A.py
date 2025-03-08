@@ -7,3 +7,4 @@ def f01(message):
 
 def f02(message):
     print(Fore.RED + message + Style.RESET_ALL)
+    print("いいえ")
